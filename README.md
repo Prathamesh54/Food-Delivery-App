@@ -6,11 +6,6 @@ This is a React-based food delivery application.
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -27,6 +22,3 @@ This is a React-based food delivery application.
 - **React Router DOM**: For declarative routing in React applications.
 - **CSS**: For styling the application.
 
-### Prerequisites
-
-- Node.js and npm (or yarn) installed on your machine.
