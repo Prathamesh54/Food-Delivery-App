@@ -27,10 +27,6 @@ This is a React-based food delivery application.
 - **React Router DOM**: For declarative routing in React applications.
 - **CSS**: For styling the application.
 
-## Installation
-
-To get a local copy up and running, follow these simple steps.
-
 ### Prerequisites
 
 - Node.js and npm (or yarn) installed on your machine.
